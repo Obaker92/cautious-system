@@ -1,3 +1,6 @@
+echo "node_modules
+build
+.env" > .gitignore
 # Build and Release Folders
 bin-debug/
 bin-release/
